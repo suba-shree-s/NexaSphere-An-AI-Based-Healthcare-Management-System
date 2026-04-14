@@ -1,2 +1,1 @@
-# NexaSphere-An-AI-Based-Healthcare-Management-System
-NexaSphere is a next-generation AI-driven healthcare platform designed to function as a personal health operating system. It integrates intelligent automation, predictive analytics, and real-time health monitoring into a unified digital ecosystem.
+CareSphere is a next-generation AI-powered healthcare app that helps users manage their health easily. It includes an intelligent AI assistant that provides personalized and unique responses based on each user’s needs. The app also supports health tracking, disease prediction, reminders, and emergency features, making healthcare more smart, simple, and accessible.
